@@ -12,6 +12,28 @@
     * 盈利能力
     
        * 毛利率
+       * 经营利润率(EBIT/net revenue)
+       * 净利率
+       * ROA
+       * ROE
+       * ROIC(投入资本回报率)
+       * 销售费用率
+       * 管理费用率
+       * 财务费用率
+       * 销售期间费用率（三费加上研发/营业收入）
+       
+     * 营运能力
+       
+       * 总资产周转率(turnover=net revenue/assets)
+       * 固定资产周转率(net revenue/average net fixed assets)
+       * 营运资本周转率(net revenue/average working capital,here WC=current assets-current liabilities)
+       * 应收账款周转天数
+       * 应付账款周转天数
+       * 存货周转天数
+       * 营业周期(Operating cacle=应收账款周转天数+存货周转天数）
+       * 现金循环周期，又名净营业周期(Cash conversion cycle=应收账款周转天数+存货周转天数-应付账款周转天数）
+      
+      
   
 
 
