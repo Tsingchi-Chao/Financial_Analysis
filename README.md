@@ -32,11 +32,60 @@
        * 存货周转天数
        * 营业周期(Operating cacle=应收账款周转天数+存货周转天数）
        * 现金循环周期，又名净营业周期(Cash conversion cycle=应收账款周转天数+存货周转天数-应付账款周转天数）
+       
+     * 流动性
+     
+       * 流动比率(current ratio):流动资产/流动负债
+       * 速冻比率(quick ratio):(流动资产-存货)/流动负债
+       * 现金比率(Cash ratio):(现金+交易性金融资产)/流动负债
+       
+     * 偿债能力
+     
+       * 有息负债/净资产
+       * 有息负债/总资产
+       * 利息保障倍数（EBIT/Interest)
+       * 货币资金加上交易性金融资产/有息负债
+       * 货币资金/有息负债
       
+     * 估值水平
+     
+       * PE
+       * PB
+       * PE历史分位数
+       * PB历史分位数
+       
+     * 现金流数据
+     
+       * CFO/revenue
+       * CFO/average total assets
+       * CFO/average total equity
+       * CFO/operating income
+       * CF0/net income
+       * (CFO-perferred dividends)/weighted average number of common shares
+       * CFO/total debt(这里采用有息负债)
+       * CFO/cash paid for long-term assets(固定资产投资)
+       * CFO/cash long-term debt repayment
+       * CFO/dividend paid
+       * CFO/cash outflows from investing and financing activities
+       * (CFO+interest paid+taxes paid)/interest paid
       
-  
-
+    * 信用水平
+     
+      * Z-score
+   
+    * 成长性
+    
+      * 营业收入同比
+      * 营业利润同比
+      * 净利润同比
+      * 归母净利润同比
+      * 扣非归母净利润同比
+      * CFO同比
 
 ## 环境准备
+  
+* 推荐使用python 3.7及以上
 
 ## 使用方法
+
+
