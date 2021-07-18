@@ -88,4 +88,8 @@
 
 ## 使用方法
 
+  1. 参数设定
+
+ <img src="https://github.com/Tsingchi-Chao/Financial_Analysis/blob/master/data/%E5%8F%82%E6%95%B0%E8%AE%BE%E5%AE%9A.png" width="800" height="200" /><br/>
+
 
