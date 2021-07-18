@@ -89,7 +89,24 @@
 ## 使用方法
 
   1. 参数设定
+   
+  设定相应的公司代码和公司名称，名称一定要和代码相对应，并设定好路径，最后相关财务分析数据会导出到该路径下。
 
  <img src="https://github.com/Tsingchi-Chao/Financial_Analysis/blob/master/data/%E5%8F%82%E6%95%B0%E8%AE%BE%E5%AE%9A.png" width="800" height="200" /><br/>
+ 
+ 2. 调用相关函数
+   
+   调用相关函数，包括盈利能力、偿债能力、现金流等等。
+
+
+<img src="https://github.com/Tsingchi-Chao/Financial_Analysis/blob/master/data/%E8%B0%83%E7%94%A8%E7%9B%B8%E5%85%B3%E5%87%BD%E6%95%B0.png" width="800" height="200" /><br/>
+
+3. 得到结果
+   
+   结果会以excel的形式直接输出到相应路径下，每个文件是一个方面，如盈利能力， 在该文件中会以sheet形式分别储存各个细分类别。
+ 
+ <img src="https://github.com/Tsingchi-Chao/Financial_Analysis/blob/master/data/%E7%BB%93%E6%9E%9C1.png" width="800" height="200" /><br/>
+ <img src="https://github.com/Tsingchi-Chao/Financial_Analysis/blob/master/data/%E7%BB%93%E6%9E%9C2.png" width="800" height="200" /><br/>
+ 
 
 
