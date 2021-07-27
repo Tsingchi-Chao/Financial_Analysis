@@ -9,7 +9,7 @@ def main():
     code=['601636.SH','000012.SZ','0868.HK','600586.SH']
     compnay_name=['旗滨集团','南玻A','信义玻璃','金晶科技']
     dic_code = dict(zip(code, compnay_name))
-    path = r'C:\Users\Administrator\Documents\Code\实习\中欧基金\玻璃行业\data\相关公司\\'
+    path = r''
     #财务分析
     ratio_analysis=RatioAnalysis("2000-03-31",'2021-06-30',dic_code)
     ratio_analysis.sortProfitabilityData(path)
